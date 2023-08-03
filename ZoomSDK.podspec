@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.description  = <<-DESC
                   Pod for zoom-sdk-ios.
                    DESC
-  s.homepage     = "https://github.com/zoom-us-community/zoom-sdk-pods"
+  s.homepage     = "https://github.com/wstuckmeyer/zoom-sdk-pods"
   s.author       = { "author" => "zvsx001@gmail.com" }
   s.platform     = :ios, "9.0"
 
